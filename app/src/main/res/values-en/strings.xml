@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kings Card Club</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="exit">exit</string>
+    <string name="play">Play</string>
+
+    <string name="throwing">throw</string>
+    <string name="end_turn">end turn</string>
+
+    <string name="west_turn">west turn</string>
+    <string name="east_turn">east turn</string>
+    <string name="south_turn">your turn</string>
+    <string name="north_turn">north turn</string>
+
+    <string name="north">north</string>
+    <string name="east">east</string>
+    <string name="west">west</string>
+
+    <string name="result">Final Results</string>
+    <string name="chooseCard">Choose a card</string>
+
+    <string name="sound">Sound</string>
+    <string name="king">king</string>
+    <string name="card">card</string>
+    <string name="language">language</string>
+    <string name="game_table">game table</string>
+    <string name="button">Button</string>
+    <string name="game_starts_now">game starts now</string>
+    <string name="help_me">a 37-card multiplayer game.  Each player receives the same number of cards.Then, he makes the
+ correspondence between cards of the same value and he places them on the game table.only one player will get
+ the king card with the rest of the cards for which he did not find a match
+ .  Thereafter each player will choose an opponent card so that he finds a match
+ within his cards.  Finally, whoever has the king card last will be the loser.</string>
+
+</resources>

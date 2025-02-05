@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kings Card Club</string>
+    <string name="settings">parametres</string>
+    <string name="help">aide</string>
+    <string name="exit">quitter</string>
+    <string name="play">jouer</string>
+
+    <string name="throwing">casser</string>
+    <string name="end_turn">finir</string>
+
+    <string name="west_turn">tour d\'ouest</string>
+    <string name="east_turn">tour d\'est</string>
+    <string name="south_turn">votre tour</string>
+    <string name="north_turn">tour de nord</string>
+
+    <string name="north">nord</string>
+    <string name="east">est</string>
+    <string name="west">ouest</string>
+
+    <string name="result">Resultats Finaux</string>
+    <string name="chooseCard">Choisissez une carte</string>
+
+    <string name="sound">Son</string>
+    <string name="king">roi</string>
+    <string name="card">carte</string>
+    <string name="language">langue</string>
+    <string name="game_table">table du jeu</string>
+    <string name="button">Retour</string>
+    <string name="game_starts_now">jouez</string>
+    <string name="help_me">jeu de 37 carte en multijoueur. Chaque joueur percoit le meme nombre de carte.\n Par la suite il fait la
+correspondance entre les cartes de meme valeur et il les depose sur la table du jeu.\n Un seul joueur aura
+la carte du roi avec le reste des cartes pour lesquelles il n a pas trouve de correspondance dans son jeu
+de carte. Par la suite chaque joueur choisira une carte de l adversaire afin qu il trouve sa
+correspondance avec ses cartes.\n Enfin celui qui aura en dernier la carte du roi sera le perdant.</string>
+</resources>

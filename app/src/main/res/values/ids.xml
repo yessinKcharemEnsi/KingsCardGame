@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="table" type="id">table</item>
+    <item name="oneOfHearts" type="id">oneOfHearts</item>
+    <item name="oneOfSpades" type="id">oneOfSpades</item>
+    <item name="oneOfClubs" type="id">oneOfClubs</item>
+    <item name="oneOfDiamonds" type="id">oneOfDiamonds</item>
+    <item name="oneOfHeartsBack" type="id">oneOfHeartsBack</item>
+    <item name="oneOfSpadesBack" type="id">oneOfSpadesBack</item>
+    <item name="oneOfClubsBack" type="id">oneOfClubsBack</item>
+    <item name="oneOfDiamondsBack" type="id">oneOfDiamondsBack</item>
+
+    <item name="twoOfHearts" type="id">twoOfHearts</item>
+    <item name="twoOfSpades" type="id">twoOfSpades</item>
+    <item name="twoOfClubs" type="id">twoOfClubs</item>
+    <item name="twoOfDiamonds" type="id">twoOfDiamonds</item>
+    <item name="twoOfHeartsBack" type="id">twoOfHeartsBack</item>
+    <item name="twoOfSpadesBack" type="id">twoOfSpadesBack</item>
+    <item name="twoOfClubsBack" type="id">twoOfClubsBack</item>
+    <item name="twoOfDiamondsBack" type="id">twoOfDiamondsBack</item>
+
+
+    <item name="threeOfHearts" type="id">threeOfHearts</item>
+    <item name="threeOfSpades" type="id">threeOfSpades</item>
+    <item name="threeOfClubs" type="id">threeOfClubs</item>
+    <item name="threeOfDiamonds" type="id">threeOfDiamonds</item>
+    <item name="threeOfHeartsBack" type="id">threeOfHeartsBack</item>
+    <item name="threeOfSpadesBack" type="id">threeOfSpadesBack</item>
+    <item name="threeOfClubsBack" type="id">threeOfClubsBack</item>
+    <item name="threeOfDiamondsBack" type="id">threeOfDiamondsBack</item>
+
+
+    <item name="fourOfHearts" type="id">fourOfHearts</item>
+    <item name="fourOfSpades" type="id">fourOfSpades</item>
+    <item name="fourOfClubs" type="id">fourOfClubs</item>
+    <item name="fourOfDiamonds" type="id">fourOfDiamonds</item>
+    <item name="fourOfHeartsBack" type="id">fourOfHeartsBack</item>
+    <item name="fourOfSpadesBack" type="id">fourOfSpadesBack</item>
+    <item name="fourOfClubsBack" type="id">fourOfClubsBack</item>
+    <item name="fourOfDiamondsBack" type="id">fourOfDiamondsBack</item>
+
+
+    <item name="fiveOfHearts" type="id">fiveOfHearts</item>
+    <item name="fiveOfSpades" type="id">fiveOfSpades</item>
+    <item name="fiveOfClubs" type="id">fiveOfClubs</item>
+    <item name="fiveOfDiamonds" type="id">fiveOfDiamonds</item>
+    <item name="fiveOfHeartsBack" type="id">fiveOfHeartsBack</item>
+    <item name="fiveOfSpadesBack" type="id">fiveOfSpadesBack</item>
+    <item name="fiveOfClubsBack" type="id">fiveOfClubsBack</item>
+    <item name="fiveOfDiamondsBack" type="id">fiveOfDiamondsBack</item>
+
+
+    <item name="sixOfHearts" type="id">sixOfHearts</item>
+    <item name="sixOfSpades" type="id">sixOfSpades</item>
+    <item name="sixOfClubs" type="id">sixOfClubs</item>
+    <item name="sixOfDiamonds" type="id">sixOfDiamonds</item>
+    <item name="sixOfHeartsBack" type="id">sixOfHeartsBack</item>
+    <item name="sixOfSpadesBack" type="id">sixOfSpadesBack</item>
+    <item name="sixOfClubsBack" type="id">sixOfClubsBack</item>
+    <item name="sixOfDiamondsBack" type="id">sixOfDiamondsBack</item>
+
+
+    <item name="sevenOfHearts" type="id">sevenOfHearts</item>
+    <item name="sevenOfSpades" type="id">sevenOfSpades</item>
+    <item name="sevenOfClubs" type="id">sevenOfClubs</item>
+    <item name="sevenOfDiamonds" type="id">sevenOfDiamonds</item>
+    <item name="sevenOfHeartsBack" type="id">sevenOfHeartsBack</item>
+    <item name="sevenOfSpadesBack" type="id">sevenOfSpadesBack</item>
+    <item name="sevenOfClubsBack" type="id">sevenOfClubsBack</item>
+    <item name="sevenOfDiamondsBack" type="id">sevenOfDiamondsBack</item>
+
+
+    <item name="eightOfHearts" type="id">eightOfHearts</item>
+    <item name="eightOfSpades" type="id">eightOfSpades</item>
+    <item name="eightOfClubs" type="id">eightOfClubs</item>
+    <item name="eightOfDiamonds" type="id">eightOfDiamonds</item>
+    <item name="eightOfHeartsBack" type="id">eightOfHeartsBack</item>
+    <item name="eightOfSpadesBack" type="id">eightOfSpadesBack</item>
+    <item name="eightOfClubsBack" type="id">eightOfClubsBack</item>
+    <item name="eightOfDiamondsBack" type="id">eightOfDiamondsBack</item>
+
+
+    <item name="nineOfHearts" type="id">nineOfHearts</item>
+    <item name="nineOfSpades" type="id">nineOfSpades</item>
+    <item name="nineOfClubs" type="id">nineOfClubs</item>
+    <item name="nineOfDiamonds" type="id">nineOfDiamonds</item>
+    <item name="nineOfHeartsBack" type="id">nineOfHeartsBack</item>
+    <item name="nineOfSpadesBack" type="id">nineOfSpadesBack</item>
+    <item name="nineOfClubsBack" type="id">nineOfClubsBack</item>
+    <item name="nineOfDiamondsBack" type="id">nineOfDiamondsBack</item>
+
+    <item name="jhayyich" type="id">jhayyich</item>
+    <item name="jhayyichBack" type="id">jhayyichBack</item>
+    <item name="mainBoard" type="id" />
+    <item name="constraintLayout" type="id" />
+
+
+</resources>

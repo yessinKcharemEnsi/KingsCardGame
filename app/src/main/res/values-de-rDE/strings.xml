@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kings Card Club</string>
+    <string name="settings">Optionen</string>
+    <string name="help">Hilfe</string>
+    <string name="exit">Beenden</string>
+    <string name="play">Abspielen</string>
+
+    <string name="throwing">werfen</string>
+    <string name="end_turn">ende tur</string>
+
+    <string name="west_turn">wende nash westen</string>
+    <string name="east_turn">wende nash osten</string>
+    <string name="south_turn">du bist dran</string>
+    <string name="north_turn">wende nash norden</string>
+
+    <string name="north">norden</string>
+    <string name="east">osten</string>
+    <string name="west">westen</string>
+
+    <string name="result">Endgultige ergebnisse</string>
+    <string name="chooseCard">Wahle eine karte</string>
+
+    <string name="sound">Klang</string>
+    <string name="king">Konig</string>
+    <string name="card">Karte</string>
+    <string name="language">Sprache</string>
+    <string name="game_table">Tabelle</string>
+    <string name="button">Button</string>
+    <string name="game_starts_now">Spiel beginnt jetzt</string>
+    <string name="help_me">37-Karten-Multiplayer-Spiel.  Jeder Spieler erhält die gleiche Anzahl Karten.  Anschließend macht er die
+ Korrespondenz zwischen Karten des gleichen Wertes und er legt sie auf den Spieltisch.
+ die Karte des Königs mit den restlichen Karten, für die er keine Übereinstimmung in seinem Deck gefunden hat
+ Karte.  Danach wählt jeder Spieler die Karte eines Gegners, damit er seine findet
+ Korrespondenz mit seinen Karten.  Schließlich ist derjenige der Verlierer, der zuletzt die Karte des Königs hat.</string>
+</resources>
